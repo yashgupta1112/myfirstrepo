@@ -35,7 +35,12 @@ if spy_age > 17 and spy_age < 60:
 
 else:
     exit(0)
-print('Welcome in python class ' +  spy_salutation + " " + spy_name +" "+str(spy_age)+" "+str(spy_rating)+"thank you")
+
+print('welcome in python class' + spy_salutation + " " + spy_name + " \n age :"+ str(spy_age) + " \n rating:"  + str(spy_rating) + "\n proud to have you onboard")
+
+
+
+
 
 
 
